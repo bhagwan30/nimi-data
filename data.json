@@ -20,7 +20,7 @@
     "option_d_hi": "स्टॉक",
     "option_d_mr": "स्टॉक",
     "correct": "C",
-    "": "none"
+    "image_name": "none"
   },
   {
     "id": "FIT_002",
@@ -43,7 +43,7 @@
     "option_d_hi": "प्लानिंग",
     "option_d_mr": "प्लॅनिंग",
     "correct": "C",
-    "": "none"
+    "image_name": "none"
   },
   {
     "id": "FIT_003",
@@ -66,7 +66,7 @@
     "option_d_hi": "वर्कपीस को समकोण पर सेट करने के लिए",
     "option_d_mr": "वर्कपीस उजव्या कोनात सेट करण्यासाठी",
     "correct": "B",
-    "": "FIT_003.png"
+    "image_name": "FIT_003.png"
   },
   {
     "id": "FIT_004",
@@ -89,6 +89,6 @@
     "option_d_hi": "मशीन वाइस",
     "option_d_mr": "मशीन वाइस",
     "correct": "A",
-    "": "FIT_004.png"
+    "image_name": "FIT_004.png"
   }
 ]
