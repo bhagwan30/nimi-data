@@ -1,0 +1,54 @@
+[
+ {
+   "id": "FIT_001",
+   "trade": "Fitter",
+   "subject": "Trade Theory",
+   "year": "1st Year",
+   "module": "Safety & Hand Tools",
+   "question_en": "Which part of the bevel protractor comes in contact with the inclined surface while measuring?",
+   "question_hi": "मापन करते समय बेवेल प्रोटेक्टर का कौन सा भाग झुकी हुई सतह के संपर्क में आता है?",
+   "question_mr": "मापन करताना बेव्हल प्रोट्रॅक्टरचा कोणता भाग कललेल्या पृष्ठभागाच्या संपर्कात येतो?",
+   "option_a_en": [
+      "Dial",
+      "डायल"
+   ],
+   "option_a_mr": "डायल",
+   "option_b_en": "Disc",
+   "option_b_hi": "डिस्क",
+   "option_b_mr": "डिस्क",
+   "option_c_en": "Blade",
+   "option_c_hi": "ब्लेड",
+   "option_c_mr": "ब्लेड",
+   "option_d_en": "Stock",
+   "option_d_hi": "स्टॉक",
+   "option_d_mr": "स्टॉक",
+   "correct": "C",
+   "": "none"
+},
+ {
+   "id": "FIT_002",
+   "trade": "Fitter",
+   "subject": "Trade Theory",
+   "year": "1st Year",
+   "module": "Safety & Hand Tools",
+   "question_en": "Which is a soft skill?",
+   "question_hi": "इनमें से कौन सा एक सॉफ्ट स्किल (कोमल कौशल) है?",
+   "question_mr": "सॉफ्ट स्किल म्हणजे काय?",
+   "option_a_en": [
+      "Copywriting",
+      "कॉपीराइटिंग"
+   ],
+   "option_a_mr": "कॉपीरायटिंग",
+   "option_b_en": "Marketing",
+   "option_b_hi": "मार्केटिंग",
+   "option_b_mr": "मार्केटिंग",
+   "option_c_en": "Teamwork",
+   "option_c_hi": "टीमवर्क",
+   "option_c_mr": "टीमवर्क",
+   "option_d_en": "Planning",
+   "option_d_hi": "प्लानिंग",
+   "option_d_mr": "प्लॅनिंग",
+   "correct": "C",
+   "": "none"
+}
+]
