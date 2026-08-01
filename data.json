@@ -8,10 +8,10 @@
    "question_en": "Which part of the bevel protractor comes in contact with the inclined surface while measuring?",
    "question_hi": "मापन करते समय बेवेल प्रोटेक्टर का कौन सा भाग झुकी हुई सतह के संपर्क में आता है?",
    "question_mr": "मापन करताना बेव्हल प्रोट्रॅक्टरचा कोणता भाग कललेल्या पृष्ठभागाच्या संपर्कात येतो?",
-   "option_a_en": [
+   "option_a_en": 
       "Dial",
       "डायल"
-   ],
+   ,
    "option_a_mr": "डायल",
    "option_b_en": "Disc",
    "option_b_hi": "डिस्क",
@@ -34,10 +34,10 @@
    "question_en": "Which is a soft skill?",
    "question_hi": "इनमें से कौन सा एक सॉफ्ट स्किल (कोमल कौशल) है?",
    "question_mr": "सॉफ्ट स्किल म्हणजे काय?",
-   "option_a_en": [
+   "option_a_en": 
       "Copyrighting",
       "कॉपीराइटिंग"
-   ],
+   ,
    "option_a_mr": "कॉपीरायटिंग",
    "option_b_en": "Marketing",
    "option_b_hi": "मार्केटिंग",
@@ -60,10 +60,10 @@
    "question_en": "What is the use of try square shown in the figure?",
    "question_hi": "आकृति में दिखाए गए ट्राय स्क्वायर का उपयोग क्या है?",
    "question_mr": "आकृतीत दाखवलेल्या ट्राय स्क्वेअरचा उपयोग काय आहे?",
-   "option_a_en": [
+   "option_a_en": 
       "To check the flatness",
       "समतलता जांचने के लिए"
-   ],
+   ,
    "option_a_mr": "सपाटपणा तपासण्यासाठी",
    "option_b_en": "To check the squareness",
    "option_b_hi": "वर्गाकारता जांचने के लिए",
@@ -86,10 +86,10 @@
    "question_en": "What is the name of the vice shown in the figure?",
    "question_hi": "आकृति में दिखाए गए वाइस का नाम क्या है?",
    "question_mr": "आकृतीमध्ये दर्शविलेल्या दुर्गुणाचे नाव काय आहे?",
-   "option_a_en": [
+   "option_a_en": 
       "Pin Vice",
       "पिन वाइस"
-   ],
+   ,
    "option_a_mr": "पिन वाइस",
    "option_b_en": "Pipe Vice",
    "option_b_hi": "पाइप वाइस",
@@ -112,10 +112,10 @@
    "question_en": "Which ensures personal safety?",
    "question_hi": "",
    "question_mr": "जे वैयक्तिक सुरक्षा सुनिश्चित करते?",
-   "option_a_en": [
+   "option_a_en": 
       "Keeping the machine clean",
       ""
-   ],
+   ,
    "option_a_mr": "मशीन स्वच्छ ठेवणे",
    "option_b_en": "Concentrating on your work",
    "option_b_hi": "",
@@ -138,10 +138,10 @@
    "question_en": "Which chisel is used for cutting oil grooves?",
    "question_hi": "",
    "question_mr": "ओइल ग्रूव कापण्यासाठी कोणती चिझेल वापरली जाते?",
-   "option_a_en": [
+   "option_a_en": 
       "Flat chisel",
       ""
-   ],
+   ,
    "option_a_mr": "सपाट चिझल",
    "option_b_en": "Web chisel",
    "option_b_hi": "",
@@ -164,10 +164,10 @@
    "question_en": "How do you use the fire extinguishers to stop fire?",
    "question_hi": "",
    "question_mr": "आग थांबवण्यासाठी अग्निशामक यंत्र कसे वापरता?",
-   "option_a_en": [
+   "option_a_en": 
       "Pull, Sweep, Aim, Squeeze",
       ""
-   ],
+   ,
    "option_a_mr": "पुल, स्वीप, एम, स्क्वीझ",
    "option_b_en": "Pull, Aim, Squeeze, Sweep",
    "option_b_hi": "",
@@ -190,10 +190,10 @@
    "question_en": "Which caliper is used for finding the centre of the round bar?",
    "question_hi": "",
    "question_mr": "गोल पट्टीचे केंद्र शोधण्यासाठी कोणते कॅलिपर वापरले जाते?",
-   "option_a_en": [
+   "option_a_en": 
       "Jenny caliper",
       ""
-   ],
+   ,
    "option_a_mr": "जेनी कॅलिपर",
    "option_b_en": "Inside caliper",
    "option_b_hi": "",
@@ -216,10 +216,10 @@
    "question_en": "Where will the weight of the hammer be stamped?",
    "question_hi": "",
    "question_mr": "हॅमरचे वजन कोठे कोरलेले असते?",
-   "option_a_en": [
+   "option_a_en": 
       "Face",
       ""
-   ],
+   ,
    "option_a_mr": "चेहरा",
    "option_b_en": "Pein",
    "option_b_hi": "",
@@ -242,10 +242,10 @@
    "question_en": "What is the bin colour code for waste paper segregation?",
    "question_hi": "",
    "question_mr": "कचरा पेपर वेगळे करण्यासाठी बिन कलर कोड काय आहे?",
-   "option_a_en": [
+   "option_a_en": 
       "Red",
       ""
-   ],
+   ,
    "option_a_mr": "लाल",
    "option_b_en": "Blue",
    "option_b_hi": "",
@@ -268,10 +268,10 @@
    "question_en": "What is the use of groove provided on the either side of a vee-block?",
    "question_hi": "",
    "question_mr": "वी-ब्लॉकच्या दोन्ही बाजूला प्रदान केलेल्या खोबणीचा काय उपयोग आहे?",
-   "option_a_en": [
+   "option_a_en": 
       "For appearance",
       ""
-   ],
+   ,
    "option_a_mr": "देखावा साठी",
    "option_b_en": "For reducing the weight",
    "option_b_hi": "",
@@ -294,10 +294,10 @@
    "question_en": "Which material is used to make bench vice?",
    "question_hi": "",
    "question_mr": "बेंच व्हाइस करण्यासाठी कोणती सामग्री वापरली जाते?",
-   "option_a_en": [
+   "option_a_en": 
       "Tool steel",
       ""
-   ],
+   ,
    "option_a_mr": "टुल स्टील",
    "option_b_en": "High carbon steel",
    "option_b_hi": "",
@@ -320,10 +320,10 @@
    "question_en": "Which type of file is used to make the job closer to the finishing size?",
    "question_hi": "",
    "question_mr": "काम फिनिशिंग साइजच्या जवळ जाण्यासाठी कोणत्या प्रकारची फाईल वापरली जाते?",
-   "option_a_en": [
+   "option_a_en": 
       "Single cut file",
       ""
-   ],
+   ,
    "option_a_mr": "सिंगल कट फाइल",
    "option_b_en": "Curved cut file",
    "option_b_hi": "",
@@ -346,10 +346,10 @@
    "question_en": "How should one avoid accidents in a workplace?",
    "question_hi": "",
    "question_mr": "कामाच्या ठिकाणी अपघात कसे टाळावेत?",
-   "option_a_en": [
+   "option_a_en": 
       "Doing work in ancient way",
       ""
-   ],
+   ,
    "option_a_mr": "पुरातन पद्धतीने काम करणे",
    "option_b_en": "Doing work in one's own way",
    "option_b_hi": "",
@@ -372,10 +372,10 @@
    "question_en": "Which punch is used for witness marks?",
    "question_hi": "",
    "question_mr": "विटनेस मार्कसाठी कोणता पन्च वापरला जातो?",
-   "option_a_en": [
+   "option_a_en": 
       "Dot punch",
       ""
-   ],
+   ,
    "option_a_mr": "डॉट पंच",
    "option_b_en": "Pin punch",
    "option_b_hi": "",
@@ -398,10 +398,10 @@
    "question_en": "What is the advantage of waste disposal?",
    "question_hi": "",
    "question_mr": "कचरा विल्हेवाट लावण्याचा फायदा काय?",
-   "option_a_en": [
+   "option_a_en": 
       "Uses a lot of energy and resources",
       ""
-   ],
+   ,
    "option_a_mr": "भरपूर ऊर्जा आणि संसाधने वापरतात",
    "option_b_en": "Increases adverse impact on environment",
    "option_b_hi": "",
@@ -450,10 +450,10 @@
    "question_en": "What is the meaning of 'Seiri' in 5S techniques?",
    "question_hi": "",
    "question_mr": "5S तंत्रात 'Seiri' चा अर्थ काय आहे?",
-   "option_a_en": [
+   "option_a_en": 
       "Identifies storage",
       ""
-   ],
+   ,
    "option_a_mr": "स्टोरेज ओळखतो",
    "option_b_en": "Cleans and inspects",
    "option_b_hi": "",
@@ -476,10 +476,10 @@
    "question_en": "Which is an immediate life-saving procedure?",
    "question_hi": "",
    "question_mr": "तात्काळ जीवन वाचवणारी प्रक्रिया कोणती आहे?",
-   "option_a_en": [
+   "option_a_en": 
       "First Aid",
       ""
-   ],
+   ,
    "option_a_mr": "प्रथमोपचार",
    "option_b_en": "Call a doctor",
    "option_b_hi": "",
@@ -502,10 +502,10 @@
    "question_en": "Which file has parallel edges throughout the length?",
    "question_hi": "",
    "question_mr": "कोणत्या फाईलला संपूर्ण लांबीच्या समांतर कडा आहेत?",
-   "option_a_en": [
+   "option_a_en": 
       "Hand file",
       ""
-   ],
+   ,
    "option_a_mr": "हँड फाइल",
    "option_b_en": "Bastard file",
    "option_b_hi": "",
@@ -528,10 +528,10 @@
    "question_en": "What is the name of the file shown in the figure?",
    "question_hi": "",
    "question_mr": "आकृतीत दाखवलेल्या फाईलचे नाव काय आहे?",
-   "option_a_en": [
+   "option_a_en": 
       "Rotary file",
       ""
-   ],
+   ,
    "option_a_mr": "रोटरी फाईल",
    "option_b_en": "Tinkers file",
    "option_b_hi": "",
@@ -554,10 +554,10 @@
    "question_en": "Which vice is used to hold hollow cylindrical jobs?",
    "question_hi": "",
    "question_mr": "पोकळ दंडगोलाकार जॉब्स ठेवण्यासाठी कोणता वाइस वापरला जातो?",
-   "option_a_en": [
+   "option_a_en": 
       "Pin vice",
       ""
-   ],
+   ,
    "option_a_mr": "पिन वाइस",
    "option_b_en": "Pipe vice",
    "option_b_hi": "",
@@ -580,10 +580,10 @@
    "question_en": "Which hand tool is used to finish the resharpened divider point?",
    "question_hi": "",
    "question_mr": "डिव्हायडर पॉइंट रीशार्प करण्यासाठी कोणत्या हँड टूलचा वापर केला जातो?",
-   "option_a_en": [
+   "option_a_en": 
       "File",
       ""
-   ],
+   ,
    "option_a_mr": "फाइल",
    "option_b_en": "Grinder",
    "option_b_hi": "",
